@@ -75,11 +75,11 @@
       <br>postman
 
  </tr>
-  
       </td>
-            <td align="center" width="96">
+       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="VsCode" />
       <br>My sql
+      </td>
 
  </tr>
 </table>
