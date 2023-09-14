@@ -86,7 +86,7 @@
 
 
 # LEETCODE :
-![LeetCode Stats](https://leetcard.jacoblin.cool/nishtharaut?theme=nord&font=Livvic)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nishtharaut06?theme=nord&font=Livvic)
 
 <br><br>
 
