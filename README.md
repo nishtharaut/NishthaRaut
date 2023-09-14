@@ -6,7 +6,7 @@
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rautnishtha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishtharaut) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jamal_976) [![Leetcode](https://img.shields.io/badge/Leetcode-%23593d88.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/nishtharaut06) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rautnishtha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishtharaut) [Leetcode](https://img.shields.io/badge/Leetcode-%23593d88.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/nishtharaut06) 
 
 # [![](https://visitcount.itsvg.in/api?id=nishtharaut&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -25,16 +25,7 @@
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
-    </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       <br>Python
     </td>
@@ -52,18 +43,10 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=scss" width="48" height="48" alt="tailwind" />
-      <br>SCSS
-    </td>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Git" />
       <br>Express
-    </td>
-        <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Git" />
-      <br>Material UI
-    </td>
+
   </tr>
  <tr>
       <td align="center" width="96">
@@ -90,38 +73,14 @@
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Vue" />
       <br>postman
-    </td>
-              <td align="center" width="96">
-        <!-- <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Sass" />
-      <br>tensorflow -->
-    </td>
+
  </tr>
-   <tr>
-      <td align="center" width="96">
-        <!-- <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="MongoDB" />
-      <br>Flask -->
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Nodejs" />
-      <br>Tailwind
-      </td>
+  
       </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="VsCode" />
       <br>My sql
-    </td>
-              <td align="center" width="96">
-<!--         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github -->
-    </td>
-              <td align="center" width="96">
-<!--         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Vue" />
-      <br>postman -->
-    </td>
-              <td align="center" width="96">
-<!--         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Sass" />
-      <br>tensorflow -->
-    </td>
+
  </tr>
 </table>
 
