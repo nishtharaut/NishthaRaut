@@ -70,10 +70,9 @@
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="VsCode" />
       <br>github
     </td>
-              <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Vue" />
       <br>postman
-
  </tr>
       </td>
        <td align="center" width="96">
